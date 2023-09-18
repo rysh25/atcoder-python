@@ -9,7 +9,7 @@
     // リンタの設定
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
-    "python.linting.flake8Args": [
+    "flake8.args": [
         "--config=${workspaceFolder}/.flake8"
     ],
     "python.linting.lintOnSave": true,
